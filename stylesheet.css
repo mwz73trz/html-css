@@ -1,0 +1,22 @@
+.parent-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: stretch;
+}
+
+.first {
+  background-color: red;
+}
+
+.second {
+  background-color: blue;
+}
+
+.third {
+  background-color: yellow;
+}
+
+.fourth {
+  background-color: green;
+}
